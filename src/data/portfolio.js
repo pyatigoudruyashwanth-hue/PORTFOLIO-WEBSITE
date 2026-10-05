@@ -25,7 +25,7 @@ export const profile = {
   linkedin: '',
   leetcode: 'https://leetcode.com/u/yashu_P/',
   hackerrank: 'https://www.hackerrank.com/profile/pyatigoudruyash1',
-  resumePath: '/resume/P_Yashwanth_Resume.pdf',
+  resumePath: `${import.meta.env.BASE_URL}resume/P_Yashwanth_Resume.pdf`,
   tagline: 'Building Skills in AI, Machine Learning, Python & Software Development',
   heroDescription: 'I am a Computer Science and Engineering student at REVA University, continuously developing my programming, problem-solving and AI/ML skills through projects, coding activities, hackathons and practical learning.',
   about: 'I am P Yashwanth, a second-year BTech Computer Science and Engineering student at REVA University. I am interested in Artificial Intelligence, Machine Learning, Python, software development and problem solving.\n\nI am continuously improving my technical skills through programming practice, Data Structures and Algorithms, coding platforms, development projects, hackathons and collaborative learning.\n\nMy goal is to build practical solutions, strengthen my programming fundamentals and develop the skills required for future internships and software/AI opportunities.'
