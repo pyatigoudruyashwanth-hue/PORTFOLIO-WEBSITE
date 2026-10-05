@@ -1,0 +1,71 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R /F2 5 0 R >> >> /Contents 6 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+6 0 obj
+<< /Length 3429 >>
+stream
+0.04 0.08 0.14 rg 0 668 612 124 re f
+0.15 0.78 0.78 rg 0 664 612 4 re f
+BT /F2 25 Tf 1 1 1 rg 1 0 0 1 48 733 Tm (P YASHWANTH) Tj ET
+BT /F1 11 Tf 0.82 0.89 0.95 rg 1 0 0 1 48 711 Tm (BTech Computer Science and Engineering Student | REVA University) Tj ET
+BT /F1 9.5 Tf 0.82 0.89 0.95 rg 1 0 0 1 48 690.5 Tm (ugcet2501879@reva.edu.in  |  Bengaluru, Karnataka, India) Tj ET
+BT /F2 9 Tf 0.05 0.55 0.60 rg 1 0 0 1 48 640 Tm (PROFILE) Tj ET
+0.78 0.84 0.89 RG 0.7 w 48 634 m 564 634 l S
+BT /F1 9.5 Tf 0.12 0.16 0.23 rg 1 0 0 1 48 616.5 Tm (Second-year Computer Science and Engineering student interested in AI, machine learning,) Tj ET
+BT /F1 9.5 Tf 0.12 0.16 0.23 rg 1 0 0 1 48 601.5 Tm (computer vision and software development. Building programming fundamentals through) Tj ET
+BT /F1 9.5 Tf 0.12 0.16 0.23 rg 1 0 0 1 48 586.5 Tm (coursework, coding practice and an AI video-analytics concept project.) Tj ET
+BT /F2 9 Tf 0.05 0.55 0.60 rg 1 0 0 1 48 558 Tm (EDUCATION) Tj ET
+0.78 0.84 0.89 RG 0.7 w 48 552 m 564 552 l S
+BT /F2 11 Tf 0.12 0.16 0.23 rg 1 0 0 1 48 532 Tm (BTech - Computer Science and Engineering) Tj ET
+BT /F1 9.5 Tf 0.12 0.16 0.23 rg 1 0 0 1 48 516.5 Tm (REVA University, Bengaluru) Tj ET
+BT /F1 9.5 Tf 0.12 0.16 0.23 rg 1 0 0 1 48 501.5 Tm (2nd Year | 3rd Semester) Tj ET
+BT /F2 9 Tf 0.05 0.55 0.60 rg 1 0 0 1 48 473 Tm (TECHNICAL SKILLS) Tj ET
+0.78 0.84 0.89 RG 0.7 w 48 467 m 564 467 l S
+BT /F1 9.5 Tf 0.12 0.16 0.23 rg 1 0 0 1 48 448.5 Tm (Programming \(developing\): C, C++, Java, Python, SQL) Tj ET
+BT /F1 9.5 Tf 0.12 0.16 0.23 rg 1 0 0 1 48 432.5 Tm (AI / Computer Vision \(learning\): Artificial Intelligence, Machine Learning, OpenCV, YOLO, object detection) Tj ET
+BT /F1 9.5 Tf 0.12 0.16 0.23 rg 1 0 0 1 48 416.5 Tm (Computer Science: Data structures, algorithms, OOP, DBMS, problem solving) Tj ET
+BT /F1 9.5 Tf 0.12 0.16 0.23 rg 1 0 0 1 48 400.5 Tm (Tools and web: Git, GitHub, VS Code, HTML, CSS, JavaScript) Tj ET
+BT /F2 9 Tf 0.05 0.55 0.60 rg 1 0 0 1 48 370 Tm (PROJECTS) Tj ET
+0.78 0.84 0.89 RG 0.7 w 48 364 m 564 364 l S
+BT /F2 10.5 Tf 0.12 0.16 0.23 rg 1 0 0 1 48 344.5 Tm (AI Video Analytics for Border Surveillance) Tj ET
+BT /F1 9 Tf 0.12 0.16 0.23 rg 1 0 0 1 48 330 Tm (Hackathon / concept project) Tj ET
+BT /F1 9.2 Tf 0.12 0.16 0.23 rg 1 0 0 1 48 312.8 Tm (Concept for adding intelligent monitoring to existing CCTV infrastructure. Proposed capabilities) Tj ET
+BT /F1 9.2 Tf 0.12 0.16 0.23 rg 1 0 0 1 48 298.8 Tm (include person and vehicle detection, restricted-zone intrusion detection, event logging, and) Tj ET
+BT /F1 9.2 Tf 0.12 0.16 0.23 rg 1 0 0 1 48 284.8 Tm (an alert/dashboard workflow with SQL integration.) Tj ET
+BT /F1 9 Tf 0.12 0.16 0.23 rg 1 0 0 1 48 268 Tm (Technologies considered: Python, OpenCV, YOLO, SQL) Tj ET
+BT /F2 10 Tf 0.12 0.16 0.23 rg 1 0 0 1 48 243 Tm (Programming and Algorithmic Problem Solving) Tj ET
+BT /F1 9.2 Tf 0.12 0.16 0.23 rg 1 0 0 1 48 227.8 Tm (Ongoing practice in data structures, algorithms and programming fundamentals.) Tj ET
+BT /F2 9 Tf 0.05 0.55 0.60 rg 1 0 0 1 48 190 Tm (CODING PROFILES) Tj ET
+0.78 0.84 0.89 RG 0.7 w 48 184 m 564 184 l S
+BT /F1 8.8 Tf 0.12 0.16 0.23 rg 1 0 0 1 48 166.2 Tm (GitHub: github.com/pyatigoudruyashwanth-hue) Tj ET
+BT /F1 8.8 Tf 0.12 0.16 0.23 rg 1 0 0 1 48 150.2 Tm (LeetCode: leetcode.com/u/yashu_P) Tj ET
+BT /F1 8.8 Tf 0.12 0.16 0.23 rg 1 0 0 1 48 134.2 Tm (HackerRank: hackerrank.com/profile/pyatigoudruyash1) Tj ET
+endstream
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000251 00000 n 
+0000000321 00000 n 
+0000000396 00000 n 
+trailer
+<< /Root 1 0 R /Size 7 >>
+startxref
+3876
+%%EOF
